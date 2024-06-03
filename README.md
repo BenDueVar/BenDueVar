@@ -13,7 +13,7 @@ I am an initiative-taking and analytical professional with a strong background i
 
 * **Real Estate Price Prediction Model:** Macro and microeconomics data to predict real estate prices. Python and Tableau 
 * **Loan Default Prediction Model:** Comparison of different prediction models for loans. Python and Tableau 
-* **Movie Recommendation Model:** Recommendation model based on human created playlists . SQL, SELENIUM, PYTHON, VBA AND POWERPOINT
+* **Movie Recommendation Model:** Recommendation model based on human created playlists . SQL, Selenium, Python, VBA, PowerPoint
 
 **Looking for Opportunities:**
 
