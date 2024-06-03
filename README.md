@@ -1,5 +1,5 @@
 ### [Benjamin Dueñas] - Financial Analyst & Data Analyst
-# I am an initiative-taking and analytical professional with a strong background in financial data modeling and fund management. Skilled in providing financial consultations and solutions for real estate investments of all sizes. I'm also passionate about developing new strategies and processes to optimize data.
+I am an initiative-taking and analytical professional with a strong background in financial data modeling and fund management. Skilled in providing financial consultations and solutions for real estate investments of all sizes. I'm also passionate about developing new strategies and processes to optimize data.
 
 **Skills:**
 
