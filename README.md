@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### BENJAMIN DUENAS -  DATA ANALYST & FINANCIAL ANALYSTS
+initiative-taking and analytical professional with expertise in financial data modeling and fund management.
 <!--
 **BenDueVar/BenDueVar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
